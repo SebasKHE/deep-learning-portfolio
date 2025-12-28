@@ -89,7 +89,7 @@ Recurrent neural networks for sequential data processing.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/deep-learning-portfolio.git
+git clone https://github.com/SebasKHE/deep-learning-portfolio.git
 cd deep-learning-portfolio
 ```
 

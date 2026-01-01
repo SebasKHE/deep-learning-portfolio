@@ -1,22 +1,61 @@
-# Deep Learning Portfolio
+# AI & Machine Learning Portfolio
 
-A comprehensive collection of deep learning implementations showcasing neural networks, optimization techniques, computer vision, and sequence modeling projects.
+A comprehensive collection of machine learning and deep learning implementations, from foundational algorithms to advanced neural network architectures.
 
 ## 🎯 Overview
 
-This repository demonstrates my journey through advanced deep learning concepts, featuring 20+ hands-on implementations across four core modules. Each project showcases practical applications of state-of-the-art deep learning techniques, from foundational neural networks to complex architectures like ResNets, U-Net, and LSTMs.
+This repository showcases my journey through machine learning and deep learning, featuring 25+ hands-on implementations across supervised learning, neural networks, computer vision, and sequence modeling. Each project demonstrates practical applications of state-of-the-art techniques, from linear regression to complex architectures like ResNets, U-Net, and LSTMs.
 
 ## 🚀 Key Highlights
 
-- **20+ Deep Learning Projects** spanning neural networks, CNNs, and RNNs
+- **25+ ML/DL Projects** spanning classical ML and deep neural networks
+- **Machine Learning Fundamentals**: Regression, classification, neural networks, decision trees
 - **Computer Vision Applications**: Object detection, face recognition, image segmentation, neural style transfer
 - **Sequence Models**: Text generation, music composition with LSTMs
 - **Advanced Techniques**: Transfer learning, optimization algorithms, regularization methods
-- **Frameworks**: TensorFlow, Keras, NumPy
+- **Frameworks**: TensorFlow, Keras, NumPy, scikit-learn
 
 ## 📚 Repository Structure
 
-### [Module 1: Neural Networks and Deep Learning](./1%20Neural%20networks%20and%20deep%20learning)
+## 🤖 Machine Learning
+
+Foundational machine learning algorithms and advanced techniques.
+
+### [1. Supervised Machine Learning: Regression and Classification](./Machine%20Learning/1.%20SML,%20Regression%20and%20Classiication)
+
+Core supervised learning implementations.
+
+- **Linear Regression** - Predicting continuous values with gradient descent
+- **Logistic Regression** - Binary classification with sigmoid activation
+
+**Key Skills**: Gradient descent, cost functions, feature scaling, classification metrics
+
+---
+
+### [2. Advanced Learning Algorithms](./Machine%20Learning/2.%20Advance%20Algorithms)
+
+Advanced machine learning techniques and neural networks.
+
+- **Neural Networks** - Multi-layer perceptrons for classification tasks
+- **Decision Trees & Ensemble Methods** - Tree-based models and boosting algorithms
+
+**Key Skills**: Neural network fundamentals, decision trees, ensemble learning, model evaluation
+
+---
+
+### [Optional Practice Exercises](./Machine%20Learning/Optional%20Practice%20Exercices)
+
+Additional hands-on exercises for reinforcing ML concepts.
+
+**Key Skills**: Problem-solving, algorithm implementation, model optimization
+
+---
+
+## 🧠 Deep Learning
+
+Advanced deep learning implementations across multiple domains.
+
+### [Module 1: Neural Networks and Deep Learning](./DeepLearning/1%20Neural%20networks%20and%20deep%20learning)
 
 Foundational implementations of neural networks from scratch.
 
@@ -29,7 +68,7 @@ Foundational implementations of neural networks from scratch.
 
 ---
 
-### [Module 2: Optimization & Regularization](./2%20Initialziation,%20Optimization,%20hiperparameter%20tunning%20regularization)
+### [Module 2: Optimization & Regularization](./DeepLearning/2%20Initialziation,%20Optimization,%20hiperparameter%20tunning%20regularization)
 
 Advanced training techniques for improving model performance and generalization.
 
@@ -43,7 +82,7 @@ Advanced training techniques for improving model performance and generalization.
 
 ---
 
-### [Module 3: Convolutional Neural Networks](./3%20Convolutional%20Networks)
+### [Module 3: Convolutional Neural Networks](./DeepLearning/3%20Convolutional%20Networks)
 
 Computer vision projects using state-of-the-art CNN architectures.
 
@@ -60,7 +99,7 @@ Computer vision projects using state-of-the-art CNN architectures.
 
 ---
 
-### [Module 4: Sequence Models](./4%20Sequence%20Models)
+### [Module 4: Sequence Models](./DeepLearning/4%20Sequence%20Models)
 
 Recurrent neural networks for sequential data processing.
 
@@ -70,8 +109,15 @@ Recurrent neural networks for sequential data processing.
 
 **Key Skills**: RNNs, LSTMs, sequence modeling, text generation, music composition
 
+---
+
+### [Additional Exercises](./DeepLearning/Aditional%20Exercices%20to%20practice)
+
+Extra practice problems for reinforcing deep learning concepts.
+
 ## 🛠️ Technologies & Tools
 
+- **Machine Learning**: scikit-learn, pandas
 - **Deep Learning Frameworks**: TensorFlow, Keras
 - **Scientific Computing**: NumPy, SciPy
 - **Data Visualization**: Matplotlib
@@ -107,13 +153,14 @@ jupyter notebook
 
 ## 💡 Skills Demonstrated
 
+- **Classical Machine Learning**: Linear/logistic regression, decision trees, ensemble methods
 - **Neural Network Architecture Design**: Building networks from scratch, understanding layer compositions
 - **Mathematical Foundations**: Implementing forward/backward propagation, gradient descent, optimization algorithms
 - **Computer Vision**: CNNs, object detection, image segmentation, transfer learning
 - **Sequence Modeling**: RNNs, LSTMs for text and music generation
 - **Model Optimization**: Hyperparameter tuning, regularization, initialization strategies
-- **Framework Proficiency**: TensorFlow, Keras for production-ready implementations
-- **Problem Solving**: Applying deep learning to real-world problems across multiple domains
+- **Framework Proficiency**: TensorFlow, Keras, scikit-learn for production-ready implementations
+- **Problem Solving**: Applying ML/DL to real-world problems across multiple domains
 
 ## 📝 License
 
@@ -125,4 +172,4 @@ Feel free to explore the notebooks and reach out if you have any questions or wo
 
 ---
 
-*This portfolio showcases practical implementations of deep learning concepts, demonstrating proficiency in neural networks, computer vision, and sequence modeling.*
+*This portfolio showcases practical implementations of machine learning and deep learning concepts, demonstrating proficiency in classical ML algorithms, neural networks, computer vision, and sequence modeling.*
